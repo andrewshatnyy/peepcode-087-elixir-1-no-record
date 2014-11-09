@@ -1,4 +1,4 @@
-#peepcode 087 elixir without updated
+#peepcode 087 elixir without Record
 
 ###Updated peepcode-087-elixir screencast code using Elixir 1.0.2 Structs instead of Records
 
