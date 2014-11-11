@@ -5,3 +5,5 @@
 [Elixir](http://elixir-lang.org/) 1 introduced [Structs](http://elixir-lang.org/getting_started/15.html) that technically replaced [Records](http://elixir-lang.org/docs/stable/elixir/Record.html).
 
 There're also few `IO` updates reflected in this rewrite.
+
+[![Analytics](https://ga-beacon.appspot.com/UA-56621624-1/peepcode-087-elixir-1-no-record/readme)](https://github.com/andrewshatnyy/peepcode-087-elixir-1-no-record)
